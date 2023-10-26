@@ -1,0 +1,46 @@
+body{
+    background-color: #45474B;
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    color: #F4CE14;
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 5rem;
+    margin: 30px 20px;
+    
+}
+
+.set{
+text-align: center;
+}
+
+.key{
+    height: 10rem;
+    width: 10rem;
+    margin: 1rem;
+    display: inline-block;
+    border: 10px solid white;
+    border-radius: 20%;
+}
+
+.game-over{
+    background-color: red;
+    opacity: 0.8;
+}
+
+#green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#blue{
+    background-color: blue;
+}
